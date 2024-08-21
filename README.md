@@ -1,0 +1,1 @@
+This is a great challenge from "Frontend Mentor" to pump up your skils. In this seemingly simple project, there were a few difficulties in working with the image, which are easily solved by one property, google helped with that.
